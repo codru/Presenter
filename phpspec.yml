@@ -1,0 +1,5 @@
+suites:
+  codru_suite:
+    namespase: Codru
+    src_path: src
+    spec_prefix: spec

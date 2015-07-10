@@ -1,0 +1,29 @@
+{
+  "name": "codru/presenter",
+  "description": "Simple view presenters",
+  "keywords": [
+    "presenter",
+    "view",
+    "laravel"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Maxim Vasiliev",
+      "email": "codrilla@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0",
+    "illuminate/support": "~5.0"
+  },
+  "require-dev": {
+    "phpspec/phpspec": "^2.2",
+    "mockery/mockery": "^0.9.4"
+  },
+  "autoload": {
+    "psr-0": {
+      "Codru\\Presenter": "src/"
+    }
+  }
+}
