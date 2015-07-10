@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Codru\Presenters\Contracts;
+namespace Codru\Presenter\Contracts;
 
 
 interface PresentableContract
