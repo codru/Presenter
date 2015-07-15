@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Codru\Presenters;
+namespace Codru\Presenter;
 
 
 abstract class Presenter
